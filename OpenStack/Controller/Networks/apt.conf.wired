@@ -1,0 +1,6 @@
+Acquire::http::proxy "http://2013lsahire:newton@192.9.150.1:2222/";
+Acquire::https::proxy "https://2013lsahire:newton@:192.9.150.1:2222/";
+Acquire::ftp::proxy "ftp://2013lsahire:newton@:192.9.150.1:2222/";
+Acquire::socks::proxy "socks://2013lsahire:newton@:192.9.150.1:2222/";
+
+

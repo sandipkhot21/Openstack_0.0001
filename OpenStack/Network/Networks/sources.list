@@ -1,0 +1,11 @@
+deb http://http.debian.net/debian wheezy main
+deb-src http://http.debian.net/debian wheezy main
+
+deb http://http.debian.net/debian wheezy-updates main
+deb-src http://http.debian.net/debian wheezy-updates main
+
+deb http://archive.gplhost.com/debian juno-backports main
+deb-src http://archive.gplhost.com/debian juno-backports main
+
+deb http://archive.gplhost.com/debian juno main
+deb-src http://archive.gplhost.com/debian juno main

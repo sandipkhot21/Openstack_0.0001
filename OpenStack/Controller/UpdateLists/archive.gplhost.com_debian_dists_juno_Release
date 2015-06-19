@@ -1,0 +1,30 @@
+Codename: juno
+Date: Fri, 17 Apr 2015 12:43:00 UTC
+Origin: GPLHost
+MD5Sum:
+ 425d9c6fe74c39272976549272ac1896           805541 main/binary-amd64/Packages
+ 404d774886f30a4cd6b38bc627770f99           126614 main/binary-amd64/Packages.bz2
+ d7e6fbc8e926fd18ddfe4f19f90e52e5           178877 main/binary-amd64/Packages.gz
+ 068d6b68efa7646805bab8a7059d0dae           768397 main/binary-i386/Packages
+ f4109bee086bfdbe4394fad770c8a050           119661 main/binary-i386/Packages.bz2
+ 45d818cd41b1e729e14de0a0dae31ad0           168779 main/binary-i386/Packages.gz
+ b38683f3f7e03a82904384472bce009c           438009 main/source/Sources
+ afd9fbc00841324185cf9573162d875a            96498 main/source/Sources.gz
+SHA1:
+ 66289317a32d06ab9473835c1dae568a39062241           805541 main/binary-amd64/Packages
+ 7325cdcde115fc9a5fd3bbc953a9967449876b37           126614 main/binary-amd64/Packages.bz2
+ 9d3faa92e023fa94aa5f232a00e246440189f150           178877 main/binary-amd64/Packages.gz
+ c3288389bde1603e857d97b075120886e2800f40           768397 main/binary-i386/Packages
+ eb915b946a1cd11c1fce2fbc5e834e33dbf241e0           119661 main/binary-i386/Packages.bz2
+ 7984f5e01f026f8f3272c5a133ad0c8917210fa6           168779 main/binary-i386/Packages.gz
+ 379fa6850ebdb444988624c561cc81f0757c8f53           438009 main/source/Sources
+ 4b1eebe62917c6976f04fc839eaf2ccc9b541130            96498 main/source/Sources.gz
+SHA256:
+ ec5f59398ce8e29644b2eecb20b2736612a2a5d632922d44bbe01a0c0301be68           805541 main/binary-amd64/Packages
+ 4eca741893855b195a787ae0942b17135dff258d5ec6cbbee4b6f2d57fa1ef25           126614 main/binary-amd64/Packages.bz2
+ 4630684badeb907bc02e141a4b42f1ebfa85a972d59df15a60d2aee680688765           178877 main/binary-amd64/Packages.gz
+ ea82f440b85cd2847bd71dd2add6f6511fc502e5d07ba3760f0a0d758fffd53a           768397 main/binary-i386/Packages
+ 7143d2feb75df2364c5fdfed2a087cf206638159d815605bb478e6889104d7ec           119661 main/binary-i386/Packages.bz2
+ 4483d883250dba70aa047e6768738e5e776c13b1995bc2c9cb5d6f379e0038f2           168779 main/binary-i386/Packages.gz
+ 103d98bddf373035e423d7abfd86b85beae2ece40ff74d161dc25f6ab94896d4           438009 main/source/Sources
+ 173ca5d317e8b9354eca095544ab86973feaf19d19cdf2cc6d496110e1317a86            96498 main/source/Sources.gz

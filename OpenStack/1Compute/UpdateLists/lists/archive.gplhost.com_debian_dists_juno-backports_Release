@@ -1,0 +1,30 @@
+Codename: juno-backports
+Date: Fri, 13 Mar 2015 19:08:36 UTC
+Origin: GPLHost
+MD5Sum:
+ a16932f4ba8e5e350173c182739025bb           632570 main/binary-amd64/Packages
+ 4a6db1267561451551145587b7f3d5d6           123372 main/binary-amd64/Packages.bz2
+ 760b9a6f7b607c509b6b3168afba57f4           177435 main/binary-amd64/Packages.gz
+ 6563dddb6ab5437c5d3cae4603ba769c           424168 main/binary-i386/Packages
+ 54f5a4ff05a412061e1c8850e2aae8eb            88488 main/binary-i386/Packages.bz2
+ 3be4b9764b99366306dddef3f90f5a6e           126502 main/binary-i386/Packages.gz
+ 8a29b169f37fe0d5fdfb2b6952f893df           482510 main/source/Sources
+ 387f51b3c3e748b2779209f12557f486           115476 main/source/Sources.gz
+SHA1:
+ 0276aa17a7bbc96b8c5c16d583deb5885bce21ee           632570 main/binary-amd64/Packages
+ 0059f99df956e8104c157152018bed1be43940b2           123372 main/binary-amd64/Packages.bz2
+ 55e367ccc369577ecc41208321f8daa195edc526           177435 main/binary-amd64/Packages.gz
+ 95b765790c6c5e23128f2cc2a610e10c0ccb16e7           424168 main/binary-i386/Packages
+ d77d68535024946c82372efbd606b7de579f0c90            88488 main/binary-i386/Packages.bz2
+ 742ae6a59a061c7ed3ff7710ceb8425462d30f21           126502 main/binary-i386/Packages.gz
+ 20aab50e0471d2c725c1cdbb0d269e8194bf44f6           482510 main/source/Sources
+ 2c775b296a985753f24f4c155fe67612d536a9f7           115476 main/source/Sources.gz
+SHA256:
+ 54772a134817871550428ab7c493cc441be72a506d41130c3bd8882dfb9a1fa2           632570 main/binary-amd64/Packages
+ b00af44b0839cc737aa2ecf673e833e07b44e57d969cb3644f1c4042fcf81b93           123372 main/binary-amd64/Packages.bz2
+ d4ff89d5d8377ba73ee7c8a355e600b05854813f7cc8eda7a06b76554ba3f1d6           177435 main/binary-amd64/Packages.gz
+ 0b65b08a2ab17a7c38ee2ceadc344a0430cf8d7793a96872ff27610be9f73a2e           424168 main/binary-i386/Packages
+ a58f3d0d12ad1eb649b6e2cc6a636a1ddc8c671eff9fd08bee1ee2490aac63f8            88488 main/binary-i386/Packages.bz2
+ ce52edaeb9f2571e035dd5638e1c2a0dbc1e5c4a02e973283121f0bf1e2b4716           126502 main/binary-i386/Packages.gz
+ 829fb52802dcc2bc3cf20b8943217ee4f4da2ccc9d6fee1edeb5f2db4cac4dfb           482510 main/source/Sources
+ 9d19021c7ac414e06646de20128f6857ede88d39ef208d1e6c2a3392c280aa2f           115476 main/source/Sources.gz

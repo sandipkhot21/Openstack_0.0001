@@ -1,13 +1,6 @@
 README for Installation of Openstack on Multiple Nodes each with single network interface card
 
 
-Extracting the files:
-	Download the the complete tar file which includes all the packages or the partial tar file which excludes packages.
-		Complete tar link:	" "
-		Partial tar link:	"https://drive.google.com/folderview?id=0B6fU9KPg7WgyfndqU01aSk1pLVFFQl9aR1I1NFBEYno2VnlIdlpaZzZtbEgzWE1ESTVfNHM&usp=sharing"
-
-	Continue with the below steps after extracting the tar file i your working directory.
-
 Hardware Requirements:
 	- 3 Physical machines (laptops)
 	- Each with one NIC

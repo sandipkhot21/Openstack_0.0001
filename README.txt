@@ -20,7 +20,7 @@ Installation Process:
 			   It can be downloaded from below link:
 				   http://cdimage.debian.org/mirror/cdimage/archive/7.8.0/amd64/iso-cd/debian-7.8.0-amd64-netinst.iso
 			b. Latest initrd.gz and vmlinuz will be needed for preseeding purpose. You can download the same from below link.
-				   http://ftp.debian.org/debian/dists/stable/main/installer-i386/current/images/hd-media/
+				   http://ftp.debian.org/debian/dists/stable/main/installer-amd64/current/images/hd-media/
 			c. Create a file with name syslinux.cfg. Copy paste the below lines into that file without double quotes.
 			   "default vmlinuz
 			    append initrd=initrd.gz preseed/file=/hd-media/preseed.cfg locale=en_US.UTF-8 console-keymaps-at/keymap=us \   
